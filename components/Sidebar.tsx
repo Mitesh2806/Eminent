@@ -61,7 +61,7 @@ const Sidebar = () => {
 
                         </Image>
                     </div>
-                    <h1 className="text-xl font-bold">CalenterAI</h1>
+                    <h1 className="text-xl font-bold">EminentAI</h1>
                 </Link>
                 <div className="space-y-1"> {/* Fixed typo in className from space=y-1 to space-y-1 */}
     {routes.map((route) => (
